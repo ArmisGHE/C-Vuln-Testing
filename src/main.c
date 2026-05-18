@@ -12,6 +12,7 @@
  *   - Hardcoded credentials (CWE-798)
  *   - Use-after-free (CWE-416)
  *   - Stack-based buffer overflow in login
+ *   - More to come
  */
 
 #include <stdio.h>
